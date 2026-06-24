@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Olá, eu sou o Maicon Almeida! 👋
 
 Sou um **Engenheiro de Software** focado no desenvolvimento de aplicações robustas e escaláveis dentro do ecossistema **.NET / C#** e bancos de dados **SQL Server**. Possuo experiência prática no ciclo de vida de desenvolvimento de software, desde a análise de requisitos e metodologias ágeis até testes unitários, consumo de APIs REST e otimização de consultas complexas.
