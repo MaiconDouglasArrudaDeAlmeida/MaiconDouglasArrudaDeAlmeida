@@ -1,8 +1,8 @@
 # Olá, eu sou o Maicon Almeida! 👋
 
-Sou um **Engenheiro de Software** focado no desenvolvimento de aplicações robustas e escaláveis dentro do ecossistema **.NET / C#** e bancos de dados **SQL Server**. Possuo experiência prática no ciclo de vida de desenvolvimento de software, desde a análise de requisitos e metodologias ágeis até testes unitários, consumo de APIs REST e otimização de consultas complexas.
+Sou um **Desenvolvedor de Software Júnior** focado no desenvolvimento de aplicações robustas e escaláveis dentro do ecossistema **.NET / C#** e bancos de dados **SQL Server**. Possuo experiência prática no ciclo de vida de desenvolvimento de software, desde a análise de requisitos e metodologias ágeis até testes unitários, consumo de APIs REST e otimização de consultas complexas.
 
-Além do foco em Back-end, possuo sólidos conhecimentos em Front-end (**Angular, JavaScript, HTML, CSS**), o que me permite transitar com facilidade em arquiteturas FullStack e colaborar eficientemente com times multidisciplinares.
+Além do foco em Back-end, possuo também conhecimentos em Front-end (**Angular, JavaScript, HTML, CSS**), o que me permite transitar com facilidade em arquiteturas FullStack e colaborar eficientemente com times multidisciplinares.
 
 ---
 
